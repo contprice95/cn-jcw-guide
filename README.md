@@ -1,2 +1,14 @@
 # cn-jcw-guide
-HTML page archive and documentation
+
+独立 HTML 页面集合
+
+仓库主要用于保存 HTML 页面，便于通过 GitHub Pages 访问。
+
+## 内容保存
+
+- 根目录保存页面文件
+- 提交历史记录文件变化
+
+## 维护方式
+
+发布程序会按配置写入文件，手动修改时请保留现有结构。
